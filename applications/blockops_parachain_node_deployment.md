@@ -29,7 +29,7 @@ This application involve:
 
 - On-demand Build-as-a-Service Substrate/Polkadot CI process for developers to run quick build, test, and runtime simulations against live blocks with our Beefy onDemand VPS.
 
-## Challeneges Developers and Startups faces when building dApps
+## Challenges Developers and Startups faces when building dApps
 - Complexity: Web3 Infrastructure is intrinsically complex. Developers and startups grapple with several complexities
   - Infrastructure Management: Setting up multi-cloud, multi-region or bare metal environments Infrastructure and ensuring they are updated with new releases is no small feat.
   - Optimization and Planning: From planning node pools, migrating between cloud vendors, to ensuring the chosen solution is secure, cost-effective, and performant, the task-list is endless.
